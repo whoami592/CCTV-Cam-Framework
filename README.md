@@ -64,7 +64,7 @@ It also includes a **self-audit module** that checks your own cameras for common
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/<your-username>/cctv-cam-framework.git
+git clone https://github.com/whoami592/CCTV-Cam-Framework.git
 cd cctv-cam-framework
 pip install opencv-python numpy
 ```
